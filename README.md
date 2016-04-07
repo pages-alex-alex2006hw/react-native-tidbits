@@ -19,7 +19,8 @@ react-native bundle --entry-file ./index.ios.js --platform ios --bundle-output i
 
 
 
-# href : https://github.com/pages-alex-alex2006hw/react-native-tidbits.git
+### href : https://github.com/refinery29/react-native-cheat-sheet
+
 Since I just started playing around with [React Native](https://facebook.github.io/react-native/) and there are just few resources available online I've decided to created this repo to write down things that I find interesting or I've spent some time googling/figuring out. 
 Hope it helps and makes your time with React Native even more fun!
 
