@@ -15,7 +15,10 @@
 ```
 react-native bundle --entry-file ./index.ios.js --platform ios --bundle-output ios/main.jsbundle
 ```
-3. 
+3. xcode : product -> scheme -> edit scheme : change run -> Build Configuration
+   : Debug to Run 
+4. xcode : build settings -> Linking -> Dead Code Stripping : NO (else xcode
+   complains about missing arm64 binaries)
 
 
 
